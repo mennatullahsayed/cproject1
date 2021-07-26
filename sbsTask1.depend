@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1627301244 source:i:\sbstask1\functions.c
+	"header.h"
+
+1627301643 i:\sbstask1\header.h
+
+1627301196 source:i:\sbstask1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1627301244 source:c:\users\menna\desktop\sbstask1\functions.c
+	"header.h"
+
+1627301643 c:\users\menna\desktop\sbstask1\header.h
+
+1627301753 source:c:\users\menna\desktop\sbstask1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1627301244 source:c:\users\menna\desktop\sbstask2\functions.c
+	"header.h"
+
+1627301643 c:\users\menna\desktop\sbstask2\header.h
+
+1627301753 source:c:\users\menna\desktop\sbstask2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
